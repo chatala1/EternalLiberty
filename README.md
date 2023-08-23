@@ -118,17 +118,19 @@ Emerging Threats -> MoonX ? (MOONSCAPE - TA445 - UAC-0051 - UNC1151)
 </p>
 
 ### PWC 
-<p>
-North Korea-based (Black)<br/>
-Russia-based (Blue)<br/>
-China-based (Red)<br/>
-Iran-based (Yellow)<br/>
-India-based (Orange)<br/>
-Five Eyes-based (Magenta)<br/>
-Nigeria-based (Bronze)<br/>
-Location agnostic or based out of multiple countries (Grey)<br/>
-Cybercrime group (White)
-</p>
+
+|Area of Operations|Color|
+|---|---|
+|North Korea|Black|
+|Russia|Blue|
+|China|Red|
+|Iran|Yellow|
+|India|Orange|
+|Five Eyes|Magenta|
+|Nigera|Bronze|
+|Organized Cybercrime|White|
+|Agnostic or Multiple|Grey|
+
 
 ### Microsoft 
 ![image](https://user-images.githubusercontent.com/54320855/233427302-73400949-bd55-4196-b909-d78724b45ae9.png)
