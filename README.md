@@ -102,20 +102,20 @@
 
 ## Naming scheme
 ### Secureworks
-<p>
-Cybercrime -> Gold X<br/>
-China -> Bronze X<br/>
-India -> Zinc X<br/>
-Iran -> Cobalt X<br/>
-North Korea -> Nickel X<br/>
-Pakistan -> Copper X<br/>
-Palestine -> Aluminum X<br/>
-Russia -> Iron X<br/>
-South Korea -> Tungsten X<br/>
-United States -> Platinum X<br/>
-Vietnam -> Tin X<br/>
-Emerging Threats -> MoonX ? (MOONSCAPE - TA445 - UAC-0051 - UNC1151)
-</p>
+
+|Group|Element|
+|---|---|
+|Organized Cybercrime|Gold X|
+|China|Bronze X|
+|India|Zinc X|
+|North Korea|Nickel X|
+|Pakistan|Copper X|
+|Russia|Iron X|
+|South Korea|Tungsten X|
+|United States|Platinum X|
+|Vietnam|Tin X|
+|Unidentified|Moon X|
+|Notes|Emerging Threats: MOONSCAPE, TA445, UAC-0051, UNC1151|
 
 ### PWC 
 
